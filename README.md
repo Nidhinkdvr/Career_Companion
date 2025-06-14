@@ -1,6 +1,6 @@
 # Career Companion
 
-CareerMap Chat is a lightweight conversational tool designed to extract a user’s interests through natural dialogue and map them to predefined career domains like STEM, Arts, Sports, etc. It aims to feel intuitive, friendly, and adaptive—offering meaningful career suggestions based on how someone talks about what they like, rather than relying on static questionnaires.
+CareerMap Chat is a lightweight conversational tool designed to extract a user’s interests through natural dialogue and map them to predefined career domains like STEM, Arts, Sports, etc. It aims to feel intuitive, friendly, and adaptive offering meaningful career suggestions based on how someone talks about what they like, rather than relying on static questionnaires.
 
                   User Input > Prompt Templates > Extracted Interests > Mapped Career Path(s) > Generated Explanation(s)
 
