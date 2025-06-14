@@ -26,5 +26,7 @@ Fallback explanations for each career path are predefined. Additionally, a perso
 # Areas I can improve
 
 1.Deeper Data Mapping – Capture more detailed insights on values, hobbies, and strengths.
+
 2.Percentage-Based Matching – Show confidence scores for top career paths.
+
 3.Login & User Data – Collect basic student info for personalized tracking.
