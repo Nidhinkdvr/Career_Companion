@@ -6,9 +6,7 @@ CareerMap Chat is a lightweight conversational tool designed to extract a userâ€
 
 
 
-# Project Flow: CareerMap Chat
-Define High-Level Career Paths
-A predefined set of broad career categories is established (e.g., STEM, Arts, Sports) to serve as target mappings for user interest identification.
+# Project Flow:
 
 1.Design Prompt Templates
 Custom prompt templates are developed to extract user preferences from natural language inputs. These prompts encourage freeform, conversational responses and guide the language model to associate expressed interests with relevant career paths.
