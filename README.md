@@ -1,4 +1,4 @@
-# Career_ChatBot
+# Career Companion
 
 CareerMap Chat is a lightweight conversational tool designed to extract a user’s interests through natural dialogue and map them to predefined career domains like STEM, Arts, Sports, etc. It aims to feel intuitive, friendly, and adaptive—offering meaningful career suggestions based on how someone talks about what they like, rather than relying on static questionnaires.
 
