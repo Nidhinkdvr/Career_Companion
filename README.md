@@ -21,10 +21,3 @@ If the user's initial responses are vague or ambiguous, a set of reflective fall
 Fallback explanations for each career path are predefined. Additionally, a personalized insight is generated using the TinyLlama model (TinyLlama-1.1B-Chat-v1.0), which contextualizes the user’s input in relation to the selected career path.
 
 
-# Areas I can improve
-
-1.Deeper Data Mapping – Capture more detailed insights on values, hobbies, and strengths.
-
-2.Percentage-Based Matching – Show confidence scores for top career paths.
-
-3.Login & User Data – Collect basic student info for personalized tracking.
